@@ -1,0 +1,71 @@
+{
+  "transactions": [
+    {
+      "date": "2025-10-10",
+      "type": "expense",
+      "category": "Travel",
+      "amount": 10000,
+      "notes": "",
+      "id": "t-e16bdb4d-d320-4524-9432-9f8c758eab90",
+      "userId": "ckm@gmail.com"
+    },
+    {
+      "date": "2025-11-11",
+      "type": "income",
+      "category": "Salary",
+      "amount": 20000,
+      "notes": "",
+      "id": "t-af82eef6-9be8-463f-a44b-5f8f0e7d6a88",
+      "userId": "ckm@gmail.com"
+    },
+    {
+      "date": "2025-11-12",
+      "type": "expense",
+      "category": "Food",
+      "amount": 10000,
+      "notes": "",
+      "id": "t-432e24bb-5922-452f-9b99-e4b948b3cbf1",
+      "userId": "ckm@gmail.com"
+    },
+    {
+      "date": "2025-12-10",
+      "type": "expense",
+      "category": "Travel",
+      "amount": 10000,
+      "notes": "",
+      "id": "t-158df457-ac62-4bc3-b6cd-e035036bf35e",
+      "userId": "ckm@gmail.com"
+    },
+    {
+      "date": "2025-12-12",
+      "type": "expense",
+      "category": "Bills",
+      "amount": 10000,
+      "notes": "",
+      "id": "t-a91cbcf8-33a8-439a-8844-3385e4ab9678",
+      "userId": "ckm@gmail.com"
+    }
+  ],
+  "budgets": [
+    {
+      "category": "Food",
+      "limit": 6000,
+      "userId": "ckm@gmail.com",
+      "id": "b-f13dffc1-ada0-4e1c-9331-dc5e06b0dc30"
+    }
+  ],
+  "users": [
+    {
+      "name": "ck",
+      "email": "ckm@gmail.com",
+      "password": "neelima13",
+      "id": 1
+    },
+    {
+      "name": "ck",
+      "email": "chinnikrishnamakineni@gmail.com",
+      "password": "neelima13",
+      "id": 2
+    }
+  ]
+}
