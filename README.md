@@ -6,7 +6,7 @@ A full-stack expense tracking application built with React.js, Axios, and JSON-S
 
 You can watch the full project demo, including UI walkthrough, features explanation, and complete code explanation videos using the link below:
 🔗 Google Drive Folder:
-https://drive.google.com/drive/u/1/folders/19bMIzYQSFh2ARM-S4Hk4PpcU6ut-VIS3
+[https://drive.google.com/drive/u/1/folders/19bMIzYQSFh2ARM-S4Hk4PpcU6ut-VIS3](https://drive.google.com/drive/folders/19bMIzYQSFh2ARM-S4Hk4PpcU6ut-VIS3?usp=sharing)
 
 ## Features
 
